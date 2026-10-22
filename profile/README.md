@@ -21,6 +21,17 @@ The NovaCommerce platform comprises modern, containerized microservices hosted o
 *  **`novacommerce-svc-catalog`** – Product Catalog Management
 *  **`novacommerce-svc-order`** – Order Processing & Checkout
 *  **`novacommerce-svc-payment`** – Payment Gateway Integration
+
+## End-to-End Web Request Flow
+
+Here is the path a web request follows, from opening the NovaCommerce website to reaching the container of the correct microservice.  
+
+<img width="4321" height="1728" alt="diagramma viaggio web request" src="https://github.com/user-attachments/assets/568565a2-1466-4677-8d64-b0c4d5d99c95" />
+
+## Disaster Recovery Strategy
+
+For this architecture, we choose a Warm Standby / Active-Passive disaster recovery strategy.  
+
 ---
 
 ### 2. [Ansible Command Center with Semaphore](https://github.com/novacommerce/ansible-command-center)
