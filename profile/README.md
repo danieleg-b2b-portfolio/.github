@@ -26,7 +26,7 @@ The NovaCommerce platform comprises modern, containerized microservices hosted o
 
 Here is the path a web request follows, from opening the NovaCommerce website to reaching the container of the correct microservice.  
 
-<img width="4321" height="1728" alt="diagramma viaggio web request" src="https://github.com/user-attachments/assets/568565a2-1466-4677-8d64-b0c4d5d99c95" />
+<img width="2765" height="1354" alt="diagramma viaggio web request" src="https://github.com/user-attachments/assets/a1359264-d401-4d03-bfc6-cf87207f3e3b" />
 
 ## Disaster Recovery Strategy
 
