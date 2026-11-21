@@ -1,6 +1,6 @@
 Hello, I'm Daniele Gattoni, Cloud DevOps Engineer | Platform Architecture & Infrastructure, and this is my engineering portfolio!  
 
-### 🚧 Project Status & Roadmap
+### Project Status & Roadmap
 > **Note:** The repositories pinned below are currently under **active development**. As I am currently working full-time as a Cloud DevOps Engineer, I build and iterate on these projects during evenings and weekends. Core architectures and foundational modules are already in place, with new features, IaC configurations, and documentation being pushed regularly.
 
 This organization hosts **NovaCommerce** and other production-grade, enterprise-level infrastructure projects designed to showcase modern DevOps best practices, multi-region high availability, and GitOps workflows.
